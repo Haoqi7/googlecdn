@@ -71,3 +71,15 @@ Chrome 安装方法（Google 被墙了上不去）：
 > 3. 勾选 Developer Mode
 > 4. 选择 Load unpacked extension... 然后定位到刚才解压的文件夹里面的 chrome 目录，确定
 > 5. 这就安装好了，去掉 Developer Mode 勾选。
+
+## 安装 加速访问 GitHub 相关的资源
+
+### 手动安装 Chrome 插件
+
+> 1. 下载 [FasterHosts](https://github.com/haoqi7/googlecdn/archive/master.zip) 然后解压，找到 `extensions` 子目录
+> 2. 打开 Chrome，输入: `chrome://extensions/`
+> 3. 打开「开发这模式」
+> 4. 选择「加载已解压的扩展程序」，然后定位到刚才解压的文件夹里面的 `extensions` 目录，确定
+> 5. 这就安装好了，关闭「开发这模式」
+
+
