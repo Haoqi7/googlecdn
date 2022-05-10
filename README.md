@@ -66,7 +66,7 @@
 
 Chrome 安装方法（Google 被墙了上不去）：
 
-> 1. 下载 [ReplaceGoogleCDN](https://github.com/haoqi7/googlecdn/archive/master.zip) 然后解压，找到 `extension` 子目录
+> 1. 下载 [GoogleCDN](https://github.com/haoqi7/googlecdn/archive/master.zip) 然后解压，找到 `extension` 子目录
 > 2. 打开 Chrome，输入: `chrome://extensions/`
 > 3. 勾选 Developer Mode
 > 4. 选择 Load unpacked extension... 然后定位到刚才解压的文件夹里面的 chrome 目录，确定
