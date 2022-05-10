@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "scripts": {
+    "fmt": "prettier --write \"extension/**/*.{ts,js}\"",
+    "build": "cd extension/; zip -r ../extension.zip .; cd -"
+  },
+  "devDependencies": {
+    "@types/chrome": "^0.0.139",
+    "prettier": "^2.3.0",
+    "typescript": "^4.2.4"
+  }
+}
